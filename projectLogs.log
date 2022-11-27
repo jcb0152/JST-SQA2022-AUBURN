@@ -1,0 +1,11 @@
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:main::starting detection tests
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:get_test_details::inputs::test-script:script
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:get_test_details::results::test-list:[]::test-assert-list:[]
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:checkClassificationAlgoTest::inputs::test-script:script
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:checkClassificationAlgoTest::results::test-result:[]
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:checkAccuracyTest::inputs::test-script:script
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:checkAccuracyTest::results::test-result:[]
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:checkAttackTest::inputs::test-script:script::assert-list:[]
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:checkAttackTest::results::test-result:[]
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:main::completed detection tests
+22-Nov-26 22:12:00:::root:::INFO:::file:detection/main.py::function:main::test-duration:0.00048
